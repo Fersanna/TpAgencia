@@ -14,25 +14,12 @@ namespace TPagenciadeviajes
     {
         public ListView ListView1 { get; set; }
 
-        public Itinerario(Vuelos vueloSeleccionado)
+        public Itinerario()
         {
             InitializeComponent();
             ListView1 = new ListView();
             // Crea un nuevo ListViewItem con los datos obtenidos
-            ListViewItem listItem = new ListViewItem(new[] {
-            vueloSeleccionado.Asiento,
-            vueloSeleccionado.Origen,
-            vueloSeleccionado.Destino,
-            vueloSeleccionado.FechaSalida.ToLongDateString(),
-            vueloSeleccionado.FechaLlegada.ToLongDateString(),
-            vueloSeleccionado.Clase,
-            vueloSeleccionado.Pasajeros.ToString(),
-            vueloSeleccionado.Precio,
-            vueloSeleccionado.Codigo
-        });
-
-            // Agregar el ListViewItem a la lista de ListView1
-            ListView1.Items.Add(listItem);
+            
 
         }
 

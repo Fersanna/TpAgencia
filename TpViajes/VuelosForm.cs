@@ -29,35 +29,12 @@ namespace TPagenciadeviajes
 
         private void VuelosListView_MouseClick(object sender, MouseEventArgs e)
         {
-            if (e.Button == MouseButtons.Left)
-            {
-                ListViewItem selectedItem = VuelosListView.HitTest(e.Location).Item;
-
-                if (selectedItem != null)
-                {
-                    // Obtén los datos de la fila seleccionada y crea un objeto Vuelos
-                    Vuelos vueloSeleccionado = new Vuelos
-                    {
-                        Asiento = selectedItem.SubItems[0].Text,
-                        Origen = selectedItem.SubItems[1].Text,
-                        Destino = selectedItem.SubItems[2].Text,
-                        FechaSalida = DateTime.Parse(selectedItem.SubItems[3].Text),
-                        FechaLlegada = DateTime.Parse(selectedItem.SubItems[4].Text),
-                        Clase = selectedItem.SubItems[5].Text,
-                        Pasajeros = selectedItem.SubItems[6].Text,
-                        Precio = selectedItem.SubItems[7].Text,
-                        Codigo = selectedItem.SubItems[8].Text,
-                        // Asigna otros valores según tus necesidades
-                    };
-
-                    // Crea una instancia de Itinerario y pasa el objeto Vuelos
-                    Itinerario itinerarioForm = new Itinerario(vueloSeleccionado);
-
+                    Itinerario itinerarioForm = new Itinerario();
                     // Muestra el formulario Itinerario
                     itinerarioForm.Show();
                     this.Hide();
-                }
-            }
+                
+         }
 
 
 
@@ -197,9 +174,10 @@ namespace TPagenciadeviajes
 
                 }
             }
-        }
+        
     } 
 }
+
 
 
 
