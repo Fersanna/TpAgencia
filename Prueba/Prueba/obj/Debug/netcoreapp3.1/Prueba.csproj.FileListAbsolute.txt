@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Prueba\Prueba\bin\Debug\netcoreapp3.1\Prueba.exe
+C:\Users\Administrator\source\repos\Prueba\Prueba\bin\Debug\netcoreapp3.1\Prueba.deps.json
+C:\Users\Administrator\source\repos\Prueba\Prueba\bin\Debug\netcoreapp3.1\Prueba.runtimeconfig.json
+C:\Users\Administrator\source\repos\Prueba\Prueba\bin\Debug\netcoreapp3.1\Prueba.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\Prueba\Prueba\bin\Debug\netcoreapp3.1\Prueba.dll
+C:\Users\Administrator\source\repos\Prueba\Prueba\bin\Debug\netcoreapp3.1\Prueba.pdb
+C:\Users\Administrator\source\repos\Prueba\Prueba\obj\Debug\netcoreapp3.1\Prueba.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Prueba\Prueba\obj\Debug\netcoreapp3.1\Prueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Prueba\Prueba\obj\Debug\netcoreapp3.1\Prueba.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Prueba\Prueba\obj\Debug\netcoreapp3.1\Prueba.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Prueba\Prueba\obj\Debug\netcoreapp3.1\Prueba.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Prueba\Prueba\obj\Debug\netcoreapp3.1\Prueba.dll
+C:\Users\Administrator\source\repos\Prueba\Prueba\obj\Debug\netcoreapp3.1\Prueba.pdb
+C:\Users\Administrator\source\repos\Prueba\Prueba\obj\Debug\netcoreapp3.1\Prueba.genruntimeconfig.cache

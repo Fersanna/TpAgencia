@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Facturacion\Facturacion\bin\Debug\netcoreapp3.1\Facturacion.exe
+C:\Users\Administrator\source\repos\Facturacion\Facturacion\bin\Debug\netcoreapp3.1\Facturacion.deps.json
+C:\Users\Administrator\source\repos\Facturacion\Facturacion\bin\Debug\netcoreapp3.1\Facturacion.runtimeconfig.json
+C:\Users\Administrator\source\repos\Facturacion\Facturacion\bin\Debug\netcoreapp3.1\Facturacion.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\Facturacion\Facturacion\bin\Debug\netcoreapp3.1\Facturacion.dll
+C:\Users\Administrator\source\repos\Facturacion\Facturacion\bin\Debug\netcoreapp3.1\Facturacion.pdb
+C:\Users\Administrator\source\repos\Facturacion\Facturacion\obj\Debug\netcoreapp3.1\Facturacion.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Facturacion\Facturacion\obj\Debug\netcoreapp3.1\Facturacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Facturacion\Facturacion\obj\Debug\netcoreapp3.1\Facturacion.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Facturacion\Facturacion\obj\Debug\netcoreapp3.1\Facturacion.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Facturacion\Facturacion\obj\Debug\netcoreapp3.1\Facturacion.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Facturacion\Facturacion\obj\Debug\netcoreapp3.1\Facturacion.dll
+C:\Users\Administrator\source\repos\Facturacion\Facturacion\obj\Debug\netcoreapp3.1\Facturacion.pdb
+C:\Users\Administrator\source\repos\Facturacion\Facturacion\obj\Debug\netcoreapp3.1\Facturacion.genruntimeconfig.cache

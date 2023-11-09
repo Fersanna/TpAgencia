@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Guia2\Guia2\bin\Debug\netcoreapp3.1\Guia2.exe
+C:\Users\Administrator\source\repos\Guia2\Guia2\bin\Debug\netcoreapp3.1\Guia2.deps.json
+C:\Users\Administrator\source\repos\Guia2\Guia2\bin\Debug\netcoreapp3.1\Guia2.runtimeconfig.json
+C:\Users\Administrator\source\repos\Guia2\Guia2\bin\Debug\netcoreapp3.1\Guia2.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\Guia2\Guia2\bin\Debug\netcoreapp3.1\Guia2.dll
+C:\Users\Administrator\source\repos\Guia2\Guia2\bin\Debug\netcoreapp3.1\Guia2.pdb
+C:\Users\Administrator\source\repos\Guia2\Guia2\obj\Debug\netcoreapp3.1\Guia2.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Guia2\Guia2\obj\Debug\netcoreapp3.1\Guia2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Guia2\Guia2\obj\Debug\netcoreapp3.1\Guia2.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Guia2\Guia2\obj\Debug\netcoreapp3.1\Guia2.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Guia2\Guia2\obj\Debug\netcoreapp3.1\Guia2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Guia2\Guia2\obj\Debug\netcoreapp3.1\Guia2.dll
+C:\Users\Administrator\source\repos\Guia2\Guia2\obj\Debug\netcoreapp3.1\Guia2.pdb
+C:\Users\Administrator\source\repos\Guia2\Guia2\obj\Debug\netcoreapp3.1\Guia2.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>ejercicio_3</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\Administrator\source\repos\Solucion Clase 3 %28Promedio%29.cs" Link="Solucion Clase 3 %28Promedio%29.cs" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Arrelgos\Arrelgos\obj\Debug\netcoreapp3.1\Arrelgos.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Arrelgos\Arrelgos\obj\Debug\netcoreapp3.1\Arrelgos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Arrelgos\Arrelgos\obj\Debug\netcoreapp3.1\Arrelgos.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Arrelgos\Arrelgos\obj\Debug\netcoreapp3.1\Arrelgos.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Arrelgos\Arrelgos\obj\Debug\netcoreapp3.1\Arrelgos.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Arrelgos\Arrelgos\bin\Debug\netcoreapp3.1\Arrelgos.exe
+C:\Users\Administrator\source\repos\Arrelgos\Arrelgos\bin\Debug\netcoreapp3.1\Arrelgos.deps.json
+C:\Users\Administrator\source\repos\Arrelgos\Arrelgos\bin\Debug\netcoreapp3.1\Arrelgos.runtimeconfig.json
+C:\Users\Administrator\source\repos\Arrelgos\Arrelgos\bin\Debug\netcoreapp3.1\Arrelgos.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\Arrelgos\Arrelgos\bin\Debug\netcoreapp3.1\Arrelgos.dll
+C:\Users\Administrator\source\repos\Arrelgos\Arrelgos\bin\Debug\netcoreapp3.1\Arrelgos.pdb
+C:\Users\Administrator\source\repos\Arrelgos\Arrelgos\obj\Debug\netcoreapp3.1\Arrelgos.dll
+C:\Users\Administrator\source\repos\Arrelgos\Arrelgos\obj\Debug\netcoreapp3.1\Arrelgos.pdb
+C:\Users\Administrator\source\repos\Arrelgos\Arrelgos\obj\Debug\netcoreapp3.1\Arrelgos.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Practica Parcial tecnico a Dom\Practica Parcial tecnico a Dom\bin\Debug\netcoreapp3.1\Practica Parcial tecnico a Dom.exe
+C:\Users\Administrator\source\repos\Practica Parcial tecnico a Dom\Practica Parcial tecnico a Dom\bin\Debug\netcoreapp3.1\Practica Parcial tecnico a Dom.deps.json
+C:\Users\Administrator\source\repos\Practica Parcial tecnico a Dom\Practica Parcial tecnico a Dom\bin\Debug\netcoreapp3.1\Practica Parcial tecnico a Dom.runtimeconfig.json
+C:\Users\Administrator\source\repos\Practica Parcial tecnico a Dom\Practica Parcial tecnico a Dom\bin\Debug\netcoreapp3.1\Practica Parcial tecnico a Dom.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\Practica Parcial tecnico a Dom\Practica Parcial tecnico a Dom\bin\Debug\netcoreapp3.1\Practica Parcial tecnico a Dom.dll
+C:\Users\Administrator\source\repos\Practica Parcial tecnico a Dom\Practica Parcial tecnico a Dom\bin\Debug\netcoreapp3.1\Practica Parcial tecnico a Dom.pdb
+C:\Users\Administrator\source\repos\Practica Parcial tecnico a Dom\Practica Parcial tecnico a Dom\obj\Debug\netcoreapp3.1\Practica Parcial tecnico a Dom.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Practica Parcial tecnico a Dom\Practica Parcial tecnico a Dom\obj\Debug\netcoreapp3.1\Practica Parcial tecnico a Dom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Practica Parcial tecnico a Dom\Practica Parcial tecnico a Dom\obj\Debug\netcoreapp3.1\Practica Parcial tecnico a Dom.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Practica Parcial tecnico a Dom\Practica Parcial tecnico a Dom\obj\Debug\netcoreapp3.1\Practica Parcial tecnico a Dom.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Practica Parcial tecnico a Dom\Practica Parcial tecnico a Dom\obj\Debug\netcoreapp3.1\Practica Parcial tecnico a Dom.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Practica Parcial tecnico a Dom\Practica Parcial tecnico a Dom\obj\Debug\netcoreapp3.1\Practica Parcial tecnico a Dom.dll
+C:\Users\Administrator\source\repos\Practica Parcial tecnico a Dom\Practica Parcial tecnico a Dom\obj\Debug\netcoreapp3.1\Practica Parcial tecnico a Dom.pdb
+C:\Users\Administrator\source\repos\Practica Parcial tecnico a Dom\Practica Parcial tecnico a Dom\obj\Debug\netcoreapp3.1\Practica Parcial tecnico a Dom.genruntimeconfig.cache
