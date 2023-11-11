@@ -11,5 +11,15 @@
             new Vuelos {Asiento ="30",Origen ="Buenos Aires", Destino ="Madrid", Clase ="Business", Pasajeros ="Menor", FechaSalida = new DateTime(2023, 02, 10),FechaLlegada =new DateTime(2023, 03,10), Precio= "115", Codigo ="AA11"},
               new Vuelos {Asiento ="33",Origen ="Buenos Aires", Destino ="Madrid", Clase ="Business", Pasajeros ="Menor", FechaSalida = new DateTime(2023, 11, 09),FechaLlegada =new DateTime(2023, 11,09), Precio= "500", Codigo ="AA25"},
         };
+
+        public List<Vuelos> ListaVuelosFiltrados { get; set; }
+        private List<Vuelos> ListaVuelosPresupuesto = new List<Vuelos>();
+
+        public void BuscarVuelos()
+        {
+            // Realiza la búsqueda de vuelos y guarda los resultados en VuelosFiltrados.
+            ListaVuelosFiltrados = ProductosModulo.BusquedaVuelos(this);
+        }
+
     }
 }

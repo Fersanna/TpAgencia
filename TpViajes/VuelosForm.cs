@@ -13,15 +13,13 @@ namespace TPagenciadeviajes
     public partial class VuelosForm : Form
     {
         VuelosModel model;
-        public ListView ListView1 { get; set; }
-
+       
 
         public VuelosForm()
         {
             InitializeComponent();
-            OrigenVuelosComboBox.SelectedIndex = 0;
-            DestinoVuelosComboBox.SelectedIndex = 0;
-            VuelosListView.MouseClick += VuelosListView_MouseClick;
+            
+           
 
 
         }
@@ -29,20 +27,40 @@ namespace TPagenciadeviajes
 
         private void VuelosListView_MouseClick(object sender, MouseEventArgs e)
         {
-                    Itinerario itinerarioForm = new Itinerario();
-                    // Muestra el formulario Itinerario
-                    itinerarioForm.Show();
-                    this.Hide();
+                if (VuelosListView.SelectedItems.Count>0)
+            {    
+                //Seleccionamos la Row del vuelo elegido
+                ListViewItem selectedItem = VuelosListView.SelectedItems[0];
+
+                if (selectedItem != null && selectedItem.SubItems != null)
+                {
+                    // Asegúrate de que la columna "Codigo" exista antes de intentar acceder a ella
+                    if (selectedItem.SubItems.ContainsKey("Codigo"))
+                    {
+                        string vueloCodigo = selectedItem.SubItems["Codigo"].Text;
+                        model.AgregarVuelosAlItinerario(vueloCodigo);
+                        MessageBox.Show("Se ha añadido correctamente el vuelo al presupuesto.");
+                    }
+                }
+
+            else
+            {
+                MessageBox.Show("Por favor, seleccione un hotel para agregar al presupuesto.");
+            }
+
+        }
                 
-         }
+        }
 
 
 
             private void Vuelos_Load(object sender, EventArgs e)
             {
                 model = new VuelosModel();
-
-                if (VuelosListView != null)
+               OrigenVuelosComboBox.SelectedIndex = 0;
+               DestinoVuelosComboBox.SelectedIndex = 0;
+   
+            if (VuelosListView != null)
                 {
                     foreach (var item in model.vuelosDiponibles)
                     {
@@ -139,6 +157,10 @@ namespace TPagenciadeviajes
 
                     VuelosListView.Items.Add(listItem);
                 }
+
+            
+
+
             }
 
             private void groupBox2_Enter(object sender, EventArgs e)
